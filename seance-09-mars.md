@@ -28,8 +28,6 @@ Un tuto vidéo qui récap le process complet : [https://youtu.be/PJwXxtJDDZQ](ht
 - [Software AnaMorph-It](https://www.anamorphosen.ch/en/software/)
 - Utiliser DALLE-2 ou Midjourney pour demander des images anamorphosées. Concept : continuer la recherche sur la materialité, la déformation et la compression des images conçues avec une IA. La déformation par anamorphose continu cet axe de recherche.
 
-![](test-dalle.png)
-
-![](midjourney-test.png)
+![](exemples-prompts.png)
 
 Prompt: *cylindical anamorphic transformation of a chair*
