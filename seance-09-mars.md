@@ -30,5 +30,6 @@ Un tuto vidéo qui récap le process complet : [https://youtu.be/PJwXxtJDDZQ](ht
 
 ![](test-dalle.png)
 
-Prompt: *cylindical anamorphic transformation of a chair*
+![](midjourney-test.png)
 
+Prompt: *cylindical anamorphic transformation of a chair*
