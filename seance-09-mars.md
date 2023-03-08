@@ -22,5 +22,5 @@ Un tuto vidéo qui récap le process : [https://youtu.be/PJwXxtJDDZQ](https://yo
 
 - Modéliser des “objets de vision” aux travers desquel il est possible de regarder. Tube, trou, cercle, ouverture dans des objets 3D… Cela impose un point de vue au joueur.
 
-[![Now in Android: 55](https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
+[![Now in Android: 55](https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
