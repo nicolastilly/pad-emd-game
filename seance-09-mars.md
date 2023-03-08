@@ -30,4 +30,4 @@ Un tuto vidéo qui récap le process complet : [https://youtu.be/PJwXxtJDDZQ](ht
 
 ![](exemples-prompts.png)
 
-Prompt: *cylindical anamorphic transformation of a chair*
+Prompt: *cylindrical anamorphic transformation of a chair*
