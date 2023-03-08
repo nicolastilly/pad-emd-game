@@ -6,13 +6,13 @@
 2. Installer GitHub Desktop → [https://desktop.github.com/](https://desktop.github.com/)
 3. Se connecter sur GitHub Desktop et cloner le projet → https://github.com/nicolastilly/pad-emd-game
 
-Un tuto vidéo qui récap le process : [https://youtu.be/PJwXxtJDDZQ](https://youtu.be/PJwXxtJDDZQ)
+Un tuto vidéo qui récap le process complet : [https://youtu.be/PJwXxtJDDZQ](https://youtu.be/PJwXxtJDDZQ)
 
 # Pour démarrer dans le projet
 
 - Créer une nouvelle scène vide avec le contrôle FPS et un plane terrain.
 
-- Poser une image anamorphosée sur le sol. Détecter un angle de vue (empty) et faire apparaître l’objet à l’emplacement. Lorque l’on se déplace dans la zone spécifiée, un script C# s’active.
+- Poser une image anamorphosée sur le sol. Détecter un angle de vue (empty) et faire apparaître l’objet à l’emplacement. Lorque l’on se déplace dans la zone spécifiée (empty), un script C# s’active.
 
     [https://youtu.be/48MxQYLmqbc](https://youtu.be/48MxQYLmqbc)
 
@@ -22,5 +22,13 @@ Un tuto vidéo qui récap le process : [https://youtu.be/PJwXxtJDDZQ](https://yo
 
 - Modéliser des “objets de vision” aux travers desquel il est possible de regarder. Tube, trou, cercle, ouverture dans des objets 3D… Cela impose un point de vue au joueur.
 
-[![Now in Android: 55](https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+# Liens et références
+
+- [Anamorph Me!](https://www.anamorphosis.com/software.html)
+- [Software AnaMorph-It](https://www.anamorphosen.ch/en/software/)
+- Utiliser DALLE-2 ou Midjourney pour demander des images anamorphosées. Concept : continuer la recherche sur la materialité, la déformation et la compression des images conçues avec une IA. La déformation par anamorphose continu cet axe de recherche.
+
+![](test-dalle.png)
+
+Prompt: *cylindical anamorphic transformation of a chair*
 
