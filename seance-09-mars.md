@@ -1,6 +1,6 @@
-# PAD EMD video game
+# PAD EMD séance du 9 mars 2023
 
-# Unity + Git
+# Configurer Unity + Git
 
 1. Se faire un compte sur GitHub (gratuit) → [https://github.com/](https://github.com/)
 2. Installer GitHub Desktop → [https://desktop.github.com/](https://desktop.github.com/)
@@ -8,9 +8,9 @@
 
 Un tuto vidéo qui récap le process : [https://youtu.be/PJwXxtJDDZQ](https://youtu.be/PJwXxtJDDZQ)
 
-# Pour démarrer
+# Pour démarrer dans le projet
 
-- Créer une nouvelle scène vide avec le controle FPS et un plane terrain.
+- Créer une nouvelle scène vide avec le contrôle FPS et un plane terrain.
 
 - Poser une image anamorphosée sur le sol. Détecter un angle de vue (empty) et faire apparaître l’objet à l’emplacement. Lorque l’on se déplace dans la zone spécifiée, un script C# s’active.
 
@@ -21,3 +21,8 @@ Un tuto vidéo qui récap le process : [https://youtu.be/PJwXxtJDDZQ](https://yo
     [https://youtu.be/oCNhvy_qOp0](https://youtu.be/oCNhvy_qOp0)
 
 - Modéliser des “objets de vision” aux travers desquel il est possible de regarder. Tube, trou, cercle, ouverture dans des objets 3D… Cela impose un point de vue au joueur.
+
+```none
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+```
+
