@@ -22,7 +22,7 @@ Un tuto vidéo qui récap le process complet : [https://youtu.be/PJwXxtJDDZQ](ht
 
 - Modéliser des “objets de vision” aux travers desquel il est possible de regarder. Tube, trou, cercle, ouverture dans des objets 3D… Cela impose un point de vue au joueur.
 
-# Liens et références
+# Compression des images / anamorphose avec les IAs
 
 - [Anamorph Me!](https://www.anamorphosis.com/software.html)
 - [Software AnaMorph-It](https://www.anamorphosen.ch/en/software/)
