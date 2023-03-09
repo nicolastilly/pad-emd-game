@@ -26,6 +26,7 @@ Un tuto vidéo qui récap le process complet : [https://youtu.be/PJwXxtJDDZQ](ht
 
 - [Anamorph Me!](https://www.anamorphosis.com/software.html)
 - [Software AnaMorph-It](https://www.anamorphosen.ch/en/software/)
+- [Monuments to guilt](https://louisthings.itch.io/monuments-to-guilt)
 - Utiliser DALLE•2 ou Midjourney pour demander des images anamorphosées. Concept : continuer la recherche sur la materialité, la déformation et la compression des images conçues avec une IA. La déformation par anamorphose continu cet axe de recherche.
 
 ![](exemples-prompts.png)
