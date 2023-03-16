@@ -10,9 +10,9 @@
 
 # Programme proto Unity
 
-- 1 scène Action
-- 1 scène espace Introspection
-- 1  caméra 3D avec 1 écran
-- C# détection 1 touche sur l'écran caméra (voir)
-- Halo en UI qui disparait
-- Ajouter un texte/audio
+- 1 scène Action ✔︎
+- 1 scène espace Introspection ✔︎
+- 1 caméra 3D avec 1 écran ✔︎
+- C# cliquer sur la caméra pour changer de scène ✔︎
+- Halo en UI qui disparait dans la scène Introspection
+- Ajouter un texte/audio dans la scène Introspection

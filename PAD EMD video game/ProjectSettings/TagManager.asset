@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - CinemachineTarget
+  - collision_camera
+  - ecran
   layers:
   - Default
   - TransparentFX
