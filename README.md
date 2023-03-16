@@ -12,6 +12,7 @@ Jeu vidéo réalisé dans le programme de recherche EMD de l'ÉSAD Orléans - ja
 ![](16-03-03.jpg)
 *work in progress - 16/03/23*
 
-![](wip/ingame-16-03.gif)
+| ![](wip/ingame-16-03.gif) |
+| :-----------------------: |
+|                           |
 
-*work in progress - 16/03/23*
