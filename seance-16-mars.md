@@ -11,7 +11,7 @@
 # Programme proto Unity
 
 - 1 scène Action
-- 1 espace Introspection
+- 1 scène espace Introspection
 - 1  caméra 3D avec 1 écran
 - C# détection 1 touche sur l'écran caméra (voir)
 - Halo en UI qui disparait
