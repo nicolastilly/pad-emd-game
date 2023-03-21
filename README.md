@@ -6,7 +6,7 @@ Jeu vidéo réalisé dans le programme de recherche EMD de l'ÉSAD Orléans - ja
 ### work in progress - 16/03/23
 
 Démarrage de la première scène (sphère). 
-Premier principe d'interaction : cliquer sur l'écran pour aller vers l'interstice (cliquer dessus). La règle à suivre est de trouver le bon écran sur lequel cliquer.
+**Premier principe d'interaction** : cliquer sur l'écran pour aller vers l'interstice (cliquer dessus). La règle à suivre est de trouver le bon écran sur lequel cliquer.
 
 ![work in progress - 16/03/23](16-03-02.png)
 
@@ -19,7 +19,7 @@ Premier principe d'interaction : cliquer sur l'écran pour aller vers l'intersti
 
 ### work in progress - 21/03/23
 
-Nouveau principe d'interaction : déplacer des cubes avec la souris. La règle à suivre est de les empiler dans un ordre précis (rouge, vert, jaune). Si l'ordre est correct, une sphère apparaît.
+**Deuxième principe d'interaction** : déplacer des cubes avec la souris. La règle à suivre est de les empiler dans un ordre précis (rouge, vert, jaune). Si l'ordre est correct, une sphère apparaît.
 
 ![](wip/21-03-23.png)
 ![](wip/video-21-03-23.gif)
