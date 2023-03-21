@@ -5,7 +5,8 @@ Jeu vidéo réalisé dans le programme de recherche EMD de l'ÉSAD Orléans - ja
 
 ### work in progress - 16/03/23
 
-Démarrage de la première scène (sphère). Interaction avec un écran pour aller vers l'interstice (cliquer dessus). 
+Démarrage de la première scène (sphère). 
+Premier principe d'interaction : cliquer sur l'écran pour aller vers l'interstice (cliquer dessus). La règle à suivre est de trouver le bon écran sur lequel cliquer.
 
 ![work in progress - 16/03/23](16-03-02.png)
 
