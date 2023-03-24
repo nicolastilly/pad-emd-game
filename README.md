@@ -15,7 +15,7 @@ Démarrage de la première scène (sphère).
 
 ![](16-03-03.jpg)
 
-![](wip/ingame-16-03.gif)
+<img src="wip/ingame-16-03.gif" style="width:100%"/>
 
 ### work in progress - 21/03/23
 
