@@ -23,3 +23,8 @@ Démarrage de la première scène (sphère).
 
 ![](wip/21-03-23.png)
 ![](wip/video-21-03-23.gif)
+
+### work in progress - 30/03/23
+**Schéma de réalisation de la boucle de gameplay**
+
+![](wip/schema-boucle.JPEG)
