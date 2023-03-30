@@ -7,6 +7,10 @@ TagManager:
   - CinemachineTarget
   - collision_camera
   - ecran
+  - sphere-pleine
+  - sphere-porte
+  - mur-fond
+  - mur-fond-porte
   layers:
   - Default
   - TransparentFX

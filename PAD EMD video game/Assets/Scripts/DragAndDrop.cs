@@ -1,4 +1,6 @@
 using UnityEngine;
+using System; // Ajoutez cette ligne
+
 
 public class DragAndDrop : MonoBehaviour
 {
@@ -12,15 +14,22 @@ public class DragAndDrop : MonoBehaviour
     public CubeColor cubeColor;
     public SphereController sphereController;
 
+   
     private Vector3 offset;
     private float zCoord;
     private Rigidbody rb;
     private Vector3 previousPosition;
     private Vector3 currentVelocity;
 
+
+    public event Action<bool> OnCombinationChanged; // Ajoutez cet événement
+
+  
+
     private void Start()
     {
         rb = GetComponent<Rigidbody>();
+
     }
 
     private void OnMouseDown()
@@ -54,6 +63,7 @@ public class DragAndDrop : MonoBehaviour
 
     private void CheckStackCompletion()
     {
+
         RaycastHit hit;
         Vector3 rayOrigin = new Vector3(transform.position.x, transform.position.y + 0.5f, transform.position.z);
         bool isStackedCorrectly = false;
@@ -78,6 +88,21 @@ public class DragAndDrop : MonoBehaviour
                             isStackedCorrectly = true;
                         }
                     }
+
+
+                    if (isStackedCorrectly)
+        {
+            Debug.Log("La combinaison est correcte !");
+            sphereController.ShowSphere();
+            OnCombinationChanged?.Invoke(true); // Déclenchez l'événement avec 'true'
+        }
+        else
+        {
+            OnCombinationChanged?.Invoke(false); // Déclenchez l'événement avec 'false'
+        }
+
+
+
                 }
             }
         }
