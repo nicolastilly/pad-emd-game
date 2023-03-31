@@ -28,3 +28,5 @@ Démarrage de la première scène (sphère).
 **Schéma de réalisation de la boucle de gameplay**
 
 ![](wip/schema-boucle.JPEG)
+![](wip/wip-30-03.png)
+![](wip/porte-30-03.gif)
