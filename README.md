@@ -36,3 +36,4 @@ Démarrage de la première scène (sphère).
 Nouvelle salle plongée dans le noir...
 
 ![](wip/wip-6-04-23.png)
+![](wip/wip-06-03-23.gif)
