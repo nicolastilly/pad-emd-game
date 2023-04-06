@@ -30,3 +30,9 @@ Démarrage de la première scène (sphère).
 ![](wip/schema-boucle.JPEG)
 ![](wip/wip-30-03.png)
 ![](wip/porte-30-03.gif)
+
+### work in progress - 6/04/23
+
+Nouvelle salle plongée dans le noir...
+
+![](wip/wip-6-04-23.png)
