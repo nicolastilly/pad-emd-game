@@ -37,3 +37,12 @@ Nouvelle salle plongée dans le noir...
 
 ![](wip/wip-6-04-23.png)
 ![](wip/wip-06-03-23.gif)
+
+### work in progress - 4/05/23
+
+Modélisation du couloir et des tubes du réseau.
+
+![](wip/couloir1.jpg)
+![](wip/couloir2.jpg)
+![](wip/couloir3.jpg)
+![](wip/couloir4.jpg)
